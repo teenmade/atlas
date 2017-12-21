@@ -4,9 +4,7 @@ Atlas is a chat bot built on the [Hubot][hubot] framework.
 
 ### Running Atlas Locally
 
-You can test Atlas by running the following, however some plugins will not
-behave as expected unless the [environment variables](#configuration) they rely
-upon have been set.
+You can test Atlas by running the following.
 
 You can start Atlas locally by running:
 
