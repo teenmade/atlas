@@ -29,9 +29,18 @@ Then you can interact with Atlas by typing `Atlas help`.
 
 ### external-scripts
 #### We use the following external-scripts:
- - 
+ - "hubot-diagnostics" 
+ - "hubot-help" 
+ - "hubot-pugme" 
+ - "hubot-rules" 
+ - "hubot-shipit" 
+ - "hubot-annoying-song" 
+ - "hubot-redis-brain" 
+ - "hubot-murder"
 
-You can find more [hubot-scripts]: https://github.com/github/hubot-scripts
+You can find more scripts [here][hubot-scripts]
+
+[hubot-scripts]: https://github.com/github/hubot-scripts
 
 ##  Persistence
 
