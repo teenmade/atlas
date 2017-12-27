@@ -8,6 +8,7 @@
     "coffee-script": "^1.12.7",
     "hubot": "^2.19.0",
     "hubot-annoying-song": "0.0.1",
+    "hubot-auth": "^2.1.0",
     "hubot-business-cat": "^1.5.14",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",

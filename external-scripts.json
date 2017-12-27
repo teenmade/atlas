@@ -7,5 +7,6 @@
   "hubot-annoying-song",
   "hubot-redis-brain",
   "hubot-murder",
-  "hubot-business-cat"
+  "hubot-business-cat",
+  "hubot-auth"
 ]
