@@ -1,4 +1,4 @@
-# Atlas
+# Λtlas
 
 Atlas is a chat bot built on the [Hubot][hubot] framework.
 
