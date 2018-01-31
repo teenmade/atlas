@@ -15,6 +15,12 @@ module.exports = (robot) ->
     robot.leave (res) ->
         res.send res.random leaveReplies
 
+    robot.respond /hello/i, (res) ->
+        res.send res.random enterReplies
+
+    robot.respond /bye/i, (res) ->
+        res.send res.random leaveReplies
+
     robot.respond /say hello/i, (res) ->
         res.send "Hey @channel! I'm Atlas! I'm supposed to do something around here, but @itsmesterling hasn't told me yet...
         If you have any ideas on what I should do let me know by saying `@atlas request <feature>`"
